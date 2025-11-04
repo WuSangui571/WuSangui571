@@ -2,6 +2,7 @@
   👋 Hi, I'm <a href="https://sangui.top" target="_blank">三桂 (sangui)</a>
 </h1>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Java+Full-Stack+Developer;Graduate+Student+(M2);Logic+Thinker;Fitness+Enthusiast" alt="Typing SVG" />
 </p>
@@ -91,6 +92,15 @@ My personal blog — where I write about **code, systems, and ideas**.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WuSangui571&show_icons=true&theme=tokyonight&hide_border=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuSangui571&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+
+---
+
+### 📈 Contribution Timeline
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WuSangui571&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 
