@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hi, I'm <a href="https://sangui.top" target="_blank">三桂 (sangui)</a>
+  👋 Hi, I'm <a href="https://sangui.top" target="_blank">sangui (三桂)</a>
 </h1>
 
 
@@ -93,6 +93,7 @@ My personal blog — where I write about **code, systems, and ideas**.
   <img src="https://github-readme-stats.vercel.app/api?username=WuSangui571&show_icons=true&theme=tokyonight&hide_border=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuSangui571&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
+
 
 
 ---
