@@ -29,13 +29,6 @@ Not for competition, but for **discipline, feedback, and long-term consistency**
 
 ---
 
-### 🕰️ Recently I'm coding in...
-
-<a href="https://codestats.net/users/WuSangui571">
-  <img src='https://codestats-readme.wegfan.cn/history-graph/WuSangui571?width=1000&height=300&timezone=08:00&history_days=30&max_languages=12' alt="WuSangui571's Code::Stats history graph" />
-</a>
-
----
 
 ### 🎯 What I’m Working Toward
 
