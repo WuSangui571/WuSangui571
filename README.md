@@ -6,6 +6,7 @@
 </div>
 
 
+
 <p align="center">
   <a href="https://github.com/Wusangui571">
     <img 
@@ -14,6 +15,7 @@
     />
   </a>
 </p>
+
 
 <div align="center">
   <a href="https://www.sangui.top/" target="_blank">
@@ -32,6 +34,7 @@
 </div>
 
 
+
 ---
 
 ### 🙋 关于我
@@ -41,7 +44,7 @@
 我目前专注于 **Java 后端与全栈开发**，同时持续探索 **AI Agent 的工程化落地**。  
 在系统架构、代码实现与日常思考中，我长期追求 **清晰、结构与边界感**。
 
-我将尽我努力，努力提升并追求：
+我会持续努力，去提升并追求：
 
 - 设计更清晰、可维护、可演进的系统；
 - 将 AI 能力真正融入业务流程，而不是停留在表面；
@@ -58,7 +61,7 @@
 - 🔭 **个人博客系统维护**  
   持续维护个人技术博客，并将近期学习、项目实践与思考沉淀到博客中。目前博客已接入基于大语言模型的 RAG 增强能力，可结合已发布文章与当前页面内容进行针对性问答。
 - 🌱 **分布式电商项目实践**  
-  正在开发一个基于微服务架构的分布式电商平台，有 AI/RAG 智能问答与推荐等场景。技术栈包括 **Spring Ai Alibaba、Spring Cloud Alibaba、Nacos、Sentinel、Redis、MySQL、RocketMQ、Vue、JWT** 等。
+  正在开发一个基于微服务架构的分布式电商平台，有 AI/RAG 智能问答与推荐等场景。技术栈包括 **Spring AI Alibaba、Spring Cloud Alibaba、Nacos、Sentinel、Redis、MySQL、RocketMQ、Vue、JWT** 等。
 - 💼 **求职方向**  
   正在寻找 **Java 全栈开发 / AI Agent 开发 / 后端开发实习** 机会。
 
@@ -81,11 +84,12 @@
 </p>
 
 
+
 ---
 
 ### 🌐 个人博客
 
-🌱 **[sangui.top](https://sangui.top)**
+**[sangui.top](https://sangui.top)**
 
 这里是我独立开发并持续维护了一年以上的个人技术博客，目前已累计发布 **100+ 篇文章**。  
 博客近期接入了基于大语言模型的 **RAG 增强问答能力**，能够结合已发布内容与当前页面上下文，给出更有针对性的回答。
@@ -98,8 +102,34 @@
 
 ---
 
+### 📊 GitHub 动态
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wusangui571&theme=github_dark" 
+    alt="Repos per Language" 
+    height="170"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wusangui571&theme=github_dark" 
+    alt="Most Commit Language" 
+    height="170"
+  />
+</p>
+
+<picture>
+  <img 
+    alt="Wusangui571's contribution graph" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Wusangui571&bg_color=0d1117&color=c9d1d9&title_color=667EEA&line=764BA2&point=667EEA&area=true&area_color=667EEA&hide_border=true&radius=12&height=300&custom_title=Contribution%20Graph" 
+    width="100%"
+  />
+</picture>
+
+---
+
 <p align="center">
   <em>"Stay hungry, stay foolish."</em>
   <br>
   <sub>— Steven Paul Jobs</sub>
 </p>
+
