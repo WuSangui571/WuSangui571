@@ -58,10 +58,14 @@
 
 - 💡 **AI Agent 与大模型应用**  
   正在深入学习 AI Agent、RAG、大模型应用开发与智能工作流设计，关注如何将 AI 能力与现代 Web 系统结合，构建更具自动化与协作能力的应用。
+  
 - 🔭 **个人博客系统维护**  
   持续维护个人技术博客，并将近期学习、项目实践与思考沉淀到博客中。目前博客已接入基于大语言模型的 RAG 增强能力，可结合已发布文章与当前页面内容进行针对性问答。
-- 🌱 **分布式电商项目实践**  
-  正在开发一个基于微服务架构的分布式电商平台，有 AI/RAG 智能问答与推荐等场景。技术栈包括 **Spring AI Alibaba、Spring Cloud Alibaba、Nacos、Sentinel、Redis、MySQL、RocketMQ、Vue、JWT** 等。
+  
+- 🌱 **RAG 中间件开发**  
+  
+  正在开发开源项目 [Sangui-RAG-Gateway](https://github.com/WuSangui571/Sangui-RAG-Gateway)，这是一个轻量级、完全兼容 OpenAI 接口规范的 RAG 增强网关。项目基于 Spring Boot 3、PostgreSQL (pgvector) 与 Redis 构建，旨在以极低的改造成本和用户感知，让现有业务系统无缝接入私有文档知识库的 RAG 能力。
+  
 - 💼 **求职方向**  
   正在寻找 **Java 全栈开发 / AI Agent 开发 / 后端开发实习** 机会。
 
@@ -132,4 +136,3 @@
   <br>
   <sub>— Steven Paul Jobs</sub>
 </p>
-
